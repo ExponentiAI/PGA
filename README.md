@@ -23,5 +23,5 @@ BibTex :
 ```
 Or :
 ```
-D. Wu, Q. Guan, Z. Fan, H. Deng and T. Wu, "AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction," in IEEE Transactions on Industrial Informatics, Sept. 2023.
+D. Wu, Q. Guan, Z. Fan, H. Deng and T. Wu, "AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction," in IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9555-9564, Sept. 2023.
 ```
