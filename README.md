@@ -9,9 +9,9 @@
 python land_GA.py or python SML.py
 
 ## 3. Reference
+If you find our code or dataset is useful for your research, please cite our paper.
 BibTex :
 ```
-If you find our code or dataset is useful for your research, please cite our paper.
 @ARTICLE{9996560,
   author={Wu, Di and Guan, Qinghua and Fan, Zhe and Deng, Hanhui and Wu, Tao},
   journal={IEEE Transactions on Industrial Informatics}, 
