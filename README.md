@@ -13,14 +13,13 @@ If you find our code or dataset is useful for your research, please cite our pap
 BibTex :
 ```
 @ARTICLE{9996560,
+  title={AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction}, 
   author={Wu, Di and Guan, Qinghua and Fan, Zhe and Deng, Hanhui and Wu, Tao},
   journal={IEEE Transactions on Industrial Informatics}, 
-  title={AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction}, 
   year={2023},
   volume={19},
   number={9},
   pages={9555-9564},
-  doi={10.1109/TII.2022.3231419}}
 ```
 Or :
 ```
